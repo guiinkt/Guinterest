@@ -9,6 +9,11 @@ a {
     color: white;
 }
 
+a:hover {
+    font-weight: bold;
+    transition: 0.2s;
+}
+
 a span {
     display: block;
     width: 100%;
