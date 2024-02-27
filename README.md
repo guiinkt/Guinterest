@@ -11,7 +11,7 @@ Projeto desenvolvido durante Aula de HTML e CSS promovido pela Rocketseat.
 <br>
 
 <p align="center">
-  <img alt="Forms" src="/images/layout-preview.png" width="100%">
+  <img alt="Layout" src="./assets/layout-preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
