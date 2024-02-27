@@ -3,13 +3,13 @@ body {
 }
 
 #logo {
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 700;
     color: #826bd6;
 
     border: 2px solid;
     border-radius: 6px;
-    
+
     padding: 6px;
 }
 
