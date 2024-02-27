@@ -40,6 +40,13 @@ img {
     width: 100%;
     border-radius: 12px;
     margin-bottom: 20px;
+
+    transition: scale 350ms ease, opacity 350ms linear;
+}
+
+main:has(img:hover) img:not(:hover) {
+    scale: .9;
+    opacity: .7;
 }
 
 ion-icon {
